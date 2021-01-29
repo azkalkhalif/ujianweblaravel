@@ -1,0 +1,11 @@
+* {
+    font-family: 'Roboto';
+}
+
+body {
+    background-color: #c9cbce;
+}
+
+@import 'header/header';
+@import 'main/main';
+@import 'footer/footer';
